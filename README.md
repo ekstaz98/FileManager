@@ -1,5 +1,4 @@
-# Aurigma
-Файловый менеджер 
+# FileManager тестовое задание
 
 Старт сервера : npm run devstart	
 
